@@ -1,15 +1,22 @@
-#Project title
+#Date created
+Created: 11/25/2020
+Submitted: 11/26/2020
+
+#Project Title
 Last Project for my Udacity Nanodegree
 
-#Project overview
+#Description
 In this project it is all about learning and improving my git and github skills.
 I will create a local repo with different branches and push that to github
 
-#Motivation
-I will improve my own skills to make awesome new tools in the future on my own
+#Files used
+new_york_city.csv
+chicago.csv
+washington.csv
+bikeshare.py
+README.md
+.gitignore
 
-#Build status
-In progess
-
-#Outro
-Thanks for reading and supporting ;)
+#Credits
+Thank you for the forked project:
+https://github.com/udacity/pdsnd_github
